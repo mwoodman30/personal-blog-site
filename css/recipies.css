@@ -1,0 +1,82 @@
+.main {
+    grid-column: 2 / 4;
+    grid-row: 2 / 4;
+    padding: 25px 25px 25px 25px;
+    margin-left: 87px;
+    margin-right: 87px;
+  /*   min-height: 500px; */
+    background-color: white;
+  }
+  
+  .main h1 {
+      font-size: 32px;
+      margin-bottom: 1rem;
+      padding-left: 35px;
+  }
+  .main h2 {
+    font-size: 38px;
+    margin-bottom: 1rem;
+    padding-left: 35px;
+    text-align: center;
+  }
+  .main h3 {
+    padding-left: 35px;
+  }
+  .main p {
+      font-size: 20px;
+      margin-bottom: .75rem;
+      padding: 35px 35px 35px 35px;
+  }
+  
+  .main img {
+      width: 100%;
+  }
+  
+  .previous {
+    grid-column: 2 / 4;
+    grid-row: 4 / 5;
+    padding-left: 50px;
+    padding-right: 50px;
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 87px;
+    margin-right: 87px;
+    justify-content: space-between;
+    background-color: white;
+  }
+  
+  .previous h3 {
+    font-weight: bold;
+    margin-bottom: .5rem;
+    flex: 1 0 auto;
+    font-size: 24px;
+    
+  }
+  
+  .previous p {
+    font-size: 22px;
+    margin-bottom: .75rem;
+  }
+  
+  .previous button {
+    background-color: white;
+    border: 2px solid #50c6db;
+    color: #50c6db;
+    padding: .5rem;
+  }
+  .information {
+     flex: 0 1 calc(33% - .5rem);
+     padding-bottom: 25px;
+  } 
+  .information p {
+    font-size: 16px;
+  }
+
+    
+  section {
+    padding: 25px;
+  }
+  .logo {
+    
+  }
+ 

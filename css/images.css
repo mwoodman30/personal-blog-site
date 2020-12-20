@@ -1,0 +1,46 @@
+.image_tomato {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 25px;
+    width: auto;
+    height: auto;
+    float: right;
+  }
+  .image_chicken_riggies {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 25px;
+    width: auto;
+    height: auto;
+    float: left;
+  }
+  .image_greens {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 25px;
+    width: auto;
+    height: auto;
+    float: left;
+  }
+  .image_halfmoon {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 25px;
+    width: auto;
+    height: auto;
+    float: right;
+  }
+  .image-2 {
+    height: 50px;
+    width: 50px;
+    }
+    .image {
+        padding: 25px;
+        float: left;
+        margin: 5px;
+        cursor:pointer;
+      }
