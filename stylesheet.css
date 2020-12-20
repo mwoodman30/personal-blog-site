@@ -1,5 +1,5 @@
 
-  /*  BODY  */
+   /*  BODY  */
 * {
   margin: 0;
   padding: 0;
@@ -217,6 +217,9 @@ footer p {
    flex: 0 1 calc(33% - .5rem);
    padding-bottom: 25px;
 } 
+.information p {
+  font-size: 16px;
+}
 .image-2 {
 height: 50px;
 width: 50px;
@@ -228,3 +231,38 @@ section {
 .logo {
   
 }
+.image_tomato {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 25px;
+  width: auto;
+  height: auto;
+  float: right;
+}
+.image_chicken_riggies {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 25px;
+  width: auto;
+  height: auto;
+  float: left;
+}
+.image_greens {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 25px;
+  width: auto;
+  height: auto;
+  float: left;
+}
+.image_halfmoon {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 25px;
+  width: auto;
+  height: auto;
+  float: right;
